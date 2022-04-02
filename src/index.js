@@ -15,15 +15,3 @@ cityName.addEventListener('keydown', (e) => {
 })
 
 changeBG();
-
-// find.addEventListener('click', () => {
-//   if (cityName.value === '') {
-//     console.log(`City not found`);
-//   } else if (cityName.value !== '') {
-//     getWeather(cityName.value);
-//   }
-// });
-
-// window.onload = getWeather(`london`);
-
-// console.log('hi');
